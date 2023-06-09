@@ -1,0 +1,22 @@
+
+
+package main
+
+import {
+
+"fmt"
+"time"
+}
+
+func main{
+
+
+var val1 int 
+
+fmt.Println("Input parameter 1:")
+fmt.Scan(%val1)
+
+fmt.Printf("Parameter value:")
+
+
+}
