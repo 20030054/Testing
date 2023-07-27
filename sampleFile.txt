@@ -1,2 +1,3 @@
 Hello! This is the sample text file.
-This is the second line to text the local changes and then push theses changes to the origin.
+This is the second line to text the local changes and then push these changes to the origin.
+For further verification another line has been added to the file.
