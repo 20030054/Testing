@@ -1,0 +1,23 @@
+
+
+package main
+
+import {
+
+"fmt"
+"time"
+}
+
+func main{
+
+
+var val1 int 
+
+fmt.Println("Input parameter 1:")
+fmt.Scan(%val1)
+
+fmt.Printf("Parameter value:")
+fmt.Printf("This line is addded by Muhammad Ali at 4:00")
+fmt.Printf("This line has been added by M.Ali at 4:03")
+fmt.Printf("This line edited at 5:16")
+}
